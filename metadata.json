@@ -1,0 +1,6 @@
+{
+  "name": "Ultra Wii Emulator",
+  "description": "Production-grade Nintendo Wii & GameCube Android/Web emulator with Dolphin core compatibility, Vulkan/OpenGL HD graphics, game booster, customizable touch controls, and Wii Remote pointer simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
